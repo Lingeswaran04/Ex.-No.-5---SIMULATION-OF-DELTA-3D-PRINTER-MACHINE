@@ -31,7 +31,8 @@
 
 ## Output:
 
-https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE.git
+![image](https://github.com/Lingeswaran04/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119103865/7ed82e61-9437-43ac-88b4-faa44a4c3ae3)
+
 
 ### Name:LINGESWARAN.K
 ### Register Number:212222110022
